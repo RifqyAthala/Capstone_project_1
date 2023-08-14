@@ -2,7 +2,7 @@
 DATA NILAI SISWA
 
 Halo, selamat datang diGithub saya.
-Kali ini saya akan menampilkan suatu aplikasi percobaan yang saya rancang untuk membantu guru dalam pengelolaan nilai siswa kelas 12 SMA, yang terdapat kelas IPA dan IPS.  Saya membuat aplikasi ini sebagai bagian dari tugas capstone project untuk program bootcamp Data Scientist yang sedang saya jalani di Purwadhika. Aplikasi ini merupakan versi pertama dari yang saya buat dan mungkin masih memiliki beberapa kekurangan yang kedepannya akan saya coba perbaiki.
+Kali ini saya akan menampilkan suatu aplikasi percobaan yang saya rancang untuk membantu guru dalam pengelolaan nilai siswa kelas 12 SMA, yang terdapat kelas IPA dan IPS.  Saya membuat aplikasi ini sebagai bagian dari tugas Capstone Project untuk Program Bootcamp Data Scientist yang sedang saya jalani di Purwadhika dengan mengimplementasikan CRUD(Create, Read, Update, and Delete) . Aplikasi ini merupakan versi pertama dari yang saya buat dan mungkin masih memiliki beberapa kekurangan yang kedepannya akan saya coba perbaiki.
 
 Terdapat 6 pilihan menu didalam aplikasi ini yang sebagai berikut :
 
