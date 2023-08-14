@@ -6,7 +6,7 @@ Kali ini saya akan menampilkan suatu aplikasi percobaan yang saya rancang untuk 
 
 Terdapat 6 pilihan menu didalam aplikasi ini yang sebagai berikut :
 
-![Screen Shot MENU](https://github.com/RifqyAthala/Capstone_project_1/assets/142139679/7262fe16-3714-4ab2-afd4-3a9d3ca64b77)
+![Screen Shot MENU](https://github.com/RifqyAthala/Capstone_project_1/assets/142139679/ab30a5cd-d84e-4585-a600-609f504f49ae)
 
 FITUR UTAMA :
 
