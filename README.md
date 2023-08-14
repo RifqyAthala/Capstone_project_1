@@ -21,7 +21,7 @@ Pada fitur ini user dapat memilih 3 menu didalam menu tampi , dimana untuk menam
 Pada menu tambah data siswa baru ini user dapat melakukan input nama,kelas dan nilai siswa sesuai ketentuan , jika didalam penginputan nama terdapat angka maka akan invalid dan user harus melakukan penginputan ulang, begitupun juga pada nama kelas dan nilai siswa
 
 3. Hapus Data Siswa : Menghapus data siswa berdasarkan NIS.
-![Screen Shot HAPUS DATA SISWA](https://github.com/RifqyAthala/Capstone_project_1/assets/142139679/edee9c02-c699-4f26-8e9c-e32aba35c897)
+![Screen Shot Hapus](https://github.com/RifqyAthala/Capstone_project_1/assets/142139679/16c1dc74-40ff-4ca5-82be-7b1c3551f81b)
 
 Pada fitur hapus data ini user hanya melakukan penginputan NIS siswa untuk melakukan penghapusan. Jika NIS siswa tidak sesuai maka akan gagal untuk melakukan penghapusan
 
