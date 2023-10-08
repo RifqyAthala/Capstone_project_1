@@ -1,5 +1,4 @@
-# Capstone_project_1
-DATA NILAI SISWA
+# APLIKASI DATA NILAI SISWA
 
 Halo, selamat datang diGithub saya.
 Kali ini saya akan menampilkan suatu aplikasi percobaan yang saya rancang untuk membantu guru dalam pengelolaan nilai siswa kelas 12 SMA, yang terdapat kelas IPA dan IPS.  Saya membuat aplikasi ini sebagai bagian dari tugas Capstone Project untuk Program Bootcamp Data Scientist yang sedang saya jalani di Purwadhika dengan mengimplementasikan CRUD(Create, Read, Update, and Delete) . Aplikasi ini merupakan versi pertama dari yang saya buat dan mungkin masih memiliki beberapa kekurangan yang kedepannya akan saya coba perbaiki.
